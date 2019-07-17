@@ -10,6 +10,7 @@
             <name>x_58872_needit_needit</name>
             <sequence>0</sequence>
             <sys_created_by>admin</sys_created_by>
+<<<<<<< HEAD
             <sys_created_on>2019-06-08 00:38:05</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
@@ -17,12 +18,22 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-06-08 00:38:05</sys_updated_on>
+=======
+            <sys_created_on>2019-02-10 18:40:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e89579e1db2323009fe564d74896190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-10 18:40:28</sys_updated_on>
+>>>>>>> CreateNeedItApp
             <value>hr1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_what_needed</element>
             <hint/>
+<<<<<<< HEAD
             <inactive>true</inactive>
             <label>Your Department Choice 1</label>
             <language>en</language>
@@ -42,12 +53,15 @@
             <dependent_value/>
             <element>u_what_needed</element>
             <hint/>
+=======
+>>>>>>> CreateNeedItApp
             <inactive>false</inactive>
             <label>Human Resources 2</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>1</sequence>
             <sys_created_by>admin</sys_created_by>
+<<<<<<< HEAD
             <sys_created_on>2019-06-08 00:38:05</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
@@ -55,12 +69,22 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-06-08 00:38:05</sys_updated_on>
+=======
+            <sys_created_on>2019-02-10 18:40:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>689579e1db2323009fe564d748961911</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-10 18:40:28</sys_updated_on>
+>>>>>>> CreateNeedItApp
             <value>hr2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_what_needed</element>
             <hint/>
+<<<<<<< HEAD
             <inactive>true</inactive>
             <label>Your Department Choice 2</label>
             <language>en</language>
@@ -80,12 +104,15 @@
             <dependent_value/>
             <element>u_what_needed</element>
             <hint/>
+=======
+>>>>>>> CreateNeedItApp
             <inactive>false</inactive>
             <label>Facilities 1</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>2</sequence>
             <sys_created_by>admin</sys_created_by>
+<<<<<<< HEAD
             <sys_created_on>2019-06-08 00:38:05</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
@@ -93,6 +120,15 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-06-08 00:38:05</sys_updated_on>
+=======
+            <sys_created_on>2019-02-10 18:40:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>249579e1db2323009fe564d748961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-10 18:40:28</sys_updated_on>
+>>>>>>> CreateNeedItApp
             <value>facilities1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -105,6 +141,7 @@
             <name>x_58872_needit_needit</name>
             <sequence>3</sequence>
             <sys_created_by>admin</sys_created_by>
+<<<<<<< HEAD
             <sys_created_on>2019-06-08 00:38:05</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
@@ -112,6 +149,15 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-06-08 00:38:05</sys_updated_on>
+=======
+            <sys_created_on>2019-02-10 18:40:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec9579e1db2323009fe564d748961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-10 18:40:28</sys_updated_on>
+>>>>>>> CreateNeedItApp
             <value>facilities2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -124,6 +170,7 @@
             <name>x_58872_needit_needit</name>
             <sequence>4</sequence>
             <sys_created_by>admin</sys_created_by>
+<<<<<<< HEAD
             <sys_created_on>2019-06-08 00:38:05</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
@@ -131,6 +178,15 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-06-08 00:38:05</sys_updated_on>
+=======
+            <sys_created_on>2019-02-10 18:40:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a89579e1db2323009fe564d748961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-10 18:40:28</sys_updated_on>
+>>>>>>> CreateNeedItApp
             <value>legal1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -143,6 +199,7 @@
             <name>x_58872_needit_needit</name>
             <sequence>5</sequence>
             <sys_created_by>admin</sys_created_by>
+<<<<<<< HEAD
             <sys_created_on>2019-06-08 00:38:05</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
@@ -150,6 +207,15 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-06-08 00:38:05</sys_updated_on>
+=======
+            <sys_created_on>2019-02-10 18:40:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>649579e1db2323009fe564d748961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-10 18:40:28</sys_updated_on>
+>>>>>>> CreateNeedItApp
             <value>legal2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -158,14 +224,19 @@
             <hint/>
             <inactive>false</inactive>
 <<<<<<< HEAD
+<<<<<<< HEAD
             <label>Information Technology 1</label>
 =======
             <label>Other</label>
 >>>>>>> ServerScriptsModule
+=======
+            <label>Information Technology 1</label>
+>>>>>>> CreateNeedItApp
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>6</sequence>
             <sys_created_by>admin</sys_created_by>
+<<<<<<< HEAD
 <<<<<<< HEAD
             <sys_created_on>2019-06-08 00:38:05</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -174,6 +245,15 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-06-08 00:38:05</sys_updated_on>
+=======
+            <sys_created_on>2019-02-10 18:40:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>209579e1db2323009fe564d74896191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-10 18:40:28</sys_updated_on>
+>>>>>>> CreateNeedItApp
             <value>it1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -186,6 +266,7 @@
             <name>x_58872_needit_needit</name>
             <sequence>7</sequence>
             <sys_created_by>admin</sys_created_by>
+<<<<<<< HEAD
             <sys_created_on>2019-06-08 00:38:05</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
@@ -204,12 +285,23 @@
             <sys_updated_on>2017-02-16 00:07:09</sys_updated_on>
             <value>other</value>
 >>>>>>> ServerScriptsModule
+=======
+            <sys_created_on>2019-02-10 18:40:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e89579e1db2323009fe564d74896191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-10 18:40:28</sys_updated_on>
+            <value>it2</value>
+>>>>>>> CreateNeedItApp
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_what_needed</element>
             <name>x_58872_needit_needit</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
+<<<<<<< HEAD
 <<<<<<< HEAD
             <sys_created_on>2019-06-08 00:38:05</sys_created_on>
             <sys_id>fb69e95bdb713300cb1c5385ca9619bd</sys_id>
@@ -223,6 +315,11 @@
 >>>>>>> ClientScriptsModule
             <sys_mod_count>3</sys_mod_count>
 >>>>>>> ServerScriptsModule
+=======
+            <sys_created_on>2019-02-10 18:40:28</sys_created_on>
+            <sys_id>249579e1db2323009fe564d748961910</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+>>>>>>> CreateNeedItApp
             <sys_name>u_what_needed</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
@@ -230,10 +327,14 @@
             <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
 <<<<<<< HEAD
+<<<<<<< HEAD
             <sys_updated_on>2019-06-08 00:38:05</sys_updated_on>
 =======
             <sys_updated_on>2017-02-16 00:07:09</sys_updated_on>
 >>>>>>> ServerScriptsModule
+=======
+            <sys_updated_on>2019-02-10 18:40:28</sys_updated_on>
+>>>>>>> CreateNeedItApp
         </sys_choice_set>
     </sys_choice>
 </record_update>
