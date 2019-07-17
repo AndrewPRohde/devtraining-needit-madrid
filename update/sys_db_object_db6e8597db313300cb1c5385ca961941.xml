@@ -16,7 +16,11 @@
         <number_ref display_value="NI">1cce815bdb313300cb1c5385ca9619be</number_ref>
         <provider_class/>
         <read_access>true</read_access>
+<<<<<<< HEAD:update/sys_db_object_db6e8597db313300cb1c5385ca961941.xml
         <super_class display_value="Task" name="task">29c855b47420330078509adcc48c8788</super_class>
+=======
+        <super_class display_value="Task" name="task">6cdbdf75dd0323007850f2ee37a03982</super_class>
+>>>>>>> ClientScriptsModule:update/sys_db_object_45007fcd0fa83200cd674f8ce1050ebc.xml
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>

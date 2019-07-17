@@ -8,10 +8,14 @@
         <includes_roles/>
         <name>x_58872_needit.needit_user</name>
 <<<<<<< HEAD:update/sys_user_role_80ce8dd7db313300cb1c5385ca961925.xml
+<<<<<<< HEAD:update/sys_user_role_80ce8dd7db313300cb1c5385ca961925.xml
         <requires_subscription>-1</requires_subscription>
 =======
         <requires_subscription/>
 >>>>>>> ServerScriptsModule:update/sys_user_role_4e42fb8d0fa83200cd674f8ce1050e72.xml
+=======
+        <requires_subscription/>
+>>>>>>> ClientScriptsModule:update/sys_user_role_4e42fb8d0fa83200cd674f8ce1050e72.xml
         <scoped_admin>false</scoped_admin>
         <suffix>needit_user</suffix>
         <sys_class_name>sys_user_role</sys_class_name>

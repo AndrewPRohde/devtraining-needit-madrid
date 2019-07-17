@@ -9,7 +9,11 @@
         <next_question/>
         <order>100</order>
         <payload_name/>
+<<<<<<< HEAD:update/sys_wizard_answer_5cce815bdb313300cb1c5385ca9619a3.xml
         <question display_value="Task" name="Task">2dc855b47420330078509adcc48c8789</question>
+=======
+        <question display_value="Task" name="Task">6cdbdf75dd0323007850f2ee37a03983</question>
+>>>>>>> ClientScriptsModule:update/sys_wizard_answer_da427f010fe83200cd674f8ce1050e7b.xml
         <roles/>
         <script/>
         <sys_class_name>sys_wizard_answer</sys_class_name>

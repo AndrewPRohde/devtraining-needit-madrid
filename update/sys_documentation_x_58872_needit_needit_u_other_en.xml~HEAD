@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
+<<<<<<< HEAD:update/sys_documentation_x_58872_needit_needit_u_other_en.xml
     <sys_documentation element="u_other" label="Other" language="en" table="x_58872_needit_needit">
+=======
+    <sys_documentation element="new_field_1" label="New field 1" language="en" table="x_58872_needit_needit">
+>>>>>>> ClientScriptsModule:update/sys_documentation_x_58872_needit_needit_new_field_1_en.xml
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>u_other</element>
             <help/>
@@ -10,8 +14,13 @@
             <plural>Others</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
+<<<<<<< HEAD:update/sys_documentation_x_58872_needit_needit_u_other_en.xml
             <sys_created_on>2017-04-29 05:12:16</sys_created_on>
             <sys_id>4d6fee77dba23300b692b08039961924</sys_id>
+=======
+            <sys_created_on>2017-01-26 00:53:30</sys_created_on>
+            <sys_id>a5c24e2ddb2323009fe564d748961983</sys_id>
+>>>>>>> ClientScriptsModule:update/sys_documentation_x_58872_needit_needit_new_field_1_en.xml
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Other</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>

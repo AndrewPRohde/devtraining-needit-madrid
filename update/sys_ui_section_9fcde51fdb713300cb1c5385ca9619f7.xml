@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
 <<<<<<< HEAD:update/sys_ui_section_9fcde51fdb713300cb1c5385ca9619f7.xml
+<<<<<<< HEAD:update/sys_ui_section_9fcde51fdb713300cb1c5385ca9619f7.xml
     <sys_ui_section caption="" section_id="9fcde51fdb713300cb1c5385ca9619f7" sys_domain="global" table="x_58872_needit_needit" version="3" view="User">
 =======
+=======
+>>>>>>> ClientScriptsModule:update/sys_ui_section_97d975bd0fa03200cd674f8ce1050e82.xml
     <sys_ui_section caption="" section_id="97d975bd0fa03200cd674f8ce1050e82" sys_domain="global" table="x_58872_needit_needit" version="3" view="User">
 >>>>>>> ServerScriptsModule:update/sys_ui_section_97d975bd0fa03200cd674f8ce1050e82.xml
         <sys_ui_element action="INSERT_OR_UPDATE">
@@ -141,7 +144,10 @@
             <sys_created_on>2019-06-08 00:57:10</sys_created_on>
 =======
             <sys_created_on>2017-01-26 21:55:52</sys_created_on>
+<<<<<<< HEAD:update/sys_ui_section_9fcde51fdb713300cb1c5385ca9619f7.xml
 >>>>>>> ServerScriptsModule:update/sys_ui_section_97d975bd0fa03200cd674f8ce1050e82.xml
+=======
+>>>>>>> ClientScriptsModule:update/sys_ui_section_97d975bd0fa03200cd674f8ce1050e82.xml
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>9fcde51fdb713300cb1c5385ca9619f7</sys_id>

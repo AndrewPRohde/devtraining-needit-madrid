@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
 <<<<<<< HEAD:update/sys_ui_section_402d211fdb713300cb1c5385ca9619c6.xml
+<<<<<<< HEAD:update/sys_ui_section_402d211fdb713300cb1c5385ca9619c6.xml
     <sys_ui_section caption="Statistics" section_id="402d211fdb713300cb1c5385ca9619c6" sys_domain="global" table="x_58872_needit_needit" version="3" view="">
 =======
+=======
+>>>>>>> ClientScriptsModule:update/sys_ui_section_040b61390fa03200cd674f8ce1050e07.xml
     <sys_ui_section caption="Statistics" section_id="040b61390fa03200cd674f8ce1050e07" sys_domain="global" table="x_58872_needit_needit" version="3" view="">
 >>>>>>> ServerScriptsModule:update/sys_ui_section_040b61390fa03200cd674f8ce1050e07.xml
         <sys_ui_element action="INSERT_OR_UPDATE">
@@ -127,7 +130,10 @@
             <sys_created_on>2019-06-08 00:54:13</sys_created_on>
 =======
             <sys_created_on>2017-01-26 20:50:56</sys_created_on>
+<<<<<<< HEAD:update/sys_ui_section_402d211fdb713300cb1c5385ca9619c6.xml
 >>>>>>> ServerScriptsModule:update/sys_ui_section_040b61390fa03200cd674f8ce1050e07.xml
+=======
+>>>>>>> ClientScriptsModule:update/sys_ui_section_040b61390fa03200cd674f8ce1050e07.xml
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>402d211fdb713300cb1c5385ca9619c6</sys_id>
