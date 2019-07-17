@@ -21,7 +21,11 @@
         <roles>x_58872_needit.needit_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
+<<<<<<< HEAD:update/sys_app_module_1d94dd1fdb313300cb1c5385ca9619a4.xml
         <sys_created_on>2019-06-07 23:10:31</sys_created_on>
+=======
+        <sys_created_on>2017-01-25 01:01:22</sys_created_on>
+>>>>>>> ServerScriptsModule:update/sys_app_module_4fdfc45d0fe83200cd674f8ce1050e27.xml
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1d94dd1fdb313300cb1c5385ca9619a4</sys_id>

@@ -4,6 +4,33 @@
             <dependent_value/>
             <element>u_request_type</element>
             <hint/>
+            <inactive>true</inactive>
+            <label>Developer Enablement</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-08 00:34:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+<<<<<<< HEAD
+            <sys_id>e0b8255bdb713300cb1c5385ca961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-08 00:34:51</sys_updated_on>
+            <value>hr</value>
+=======
+            <sys_id>ec1811310fa03200cd674f8ce1050e4e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-08 22:44:34</sys_updated_on>
+            <value>dev_enable</value>
+>>>>>>> ServerScriptsModule
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
             <inactive>false</inactive>
             <label>Human Resources</label>
             <language>en</language>
@@ -13,11 +40,19 @@
             <sys_created_on>2019-06-08 00:34:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e0b8255bdb713300cb1c5385ca961964</sys_id>
+<<<<<<< HEAD
+            <sys_id>a0b8255bdb713300cb1c5385ca961966</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-06-08 00:34:51</sys_updated_on>
+            <value>facilities</value>
+=======
+            <sys_id>201811310fa03200cd674f8ce1050e4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-26 19:28:14</sys_updated_on>
             <value>hr</value>
+>>>>>>> ServerScriptsModule
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -32,18 +67,30 @@
             <sys_created_on>2019-06-08 00:34:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a0b8255bdb713300cb1c5385ca961966</sys_id>
+<<<<<<< HEAD
+            <sys_id>6cb8255bdb713300cb1c5385ca961967</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-06-08 00:34:51</sys_updated_on>
+            <value>legal</value>
+=======
+            <sys_id>6c1811310fa03200cd674f8ce1050e4b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-09 21:19:52</sys_updated_on>
             <value>facilities</value>
+>>>>>>> ServerScriptsModule
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_request_type</element>
             <hint/>
             <inactive>false</inactive>
+<<<<<<< HEAD
+            <label>Information Technology</label>
+=======
             <label>Legal</label>
+>>>>>>> ServerScriptsModule
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>2</sequence>
@@ -51,46 +98,45 @@
             <sys_created_on>2019-06-08 00:34:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6cb8255bdb713300cb1c5385ca961967</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-08 00:34:51</sys_updated_on>
-            <value>legal</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_request_type</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Information Technology</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>3</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-08 00:34:51</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
+<<<<<<< HEAD
             <sys_id>28b8255bdb713300cb1c5385ca961969</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-06-08 00:34:51</sys_updated_on>
             <value>it</value>
+=======
+            <sys_id>a41811310fa03200cd674f8ce1050e4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-26 19:28:14</sys_updated_on>
+            <value>legal</value>
+>>>>>>> ServerScriptsModule
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_request_type</element>
             <name>x_58872_needit_needit</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
+<<<<<<< HEAD
             <sys_created_on>2019-06-08 00:34:51</sys_created_on>
             <sys_id>6cb8255bdb713300cb1c5385ca961964</sys_id>
             <sys_mod_count>0</sys_mod_count>
+=======
+            <sys_created_on>2017-01-26 19:28:14</sys_created_on>
+            <sys_id>e56fee77dba23300b692b080399619eb</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+>>>>>>> ServerScriptsModule
             <sys_name>u_request_type</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
             <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
             <sys_update_name>sys_choice_x_58872_needit_needit_u_request_type</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
+<<<<<<< HEAD
             <sys_updated_on>2019-06-08 00:34:51</sys_updated_on>
+=======
+            <sys_updated_on>2017-02-09 21:19:52</sys_updated_on>
+>>>>>>> ServerScriptsModule
         </sys_choice_set>
     </sys_choice>
 </record_update>

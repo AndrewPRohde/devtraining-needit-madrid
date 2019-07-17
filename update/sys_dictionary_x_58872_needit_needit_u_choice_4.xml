@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
+<<<<<<< HEAD:update/sys_dictionary_x_58872_needit_needit_u_choice_4.xml
     <sys_dictionary action="INSERT_OR_UPDATE" element="u_choice_4" table="x_58872_needit_needit">
+=======
+    <sys_dictionary action="INSERT_OR_UPDATE" element="new_field_1" table="x_58872_needit_needit">
+>>>>>>> ServerScriptsModule:update/sys_dictionary_x_58872_needit_needit_new_field_1.xml
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -47,16 +51,27 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
+<<<<<<< HEAD:update/sys_dictionary_x_58872_needit_needit_u_choice_4.xml
         <sys_created_on>2019-06-08 00:34:51</sys_created_on>
         <sys_id>90b8255bdb713300cb1c5385ca961928</sys_id>
+=======
+        <sys_created_on>2017-01-26 00:53:29</sys_created_on>
+        <sys_id>416fee77dba23300b692b08039961923</sys_id>
+>>>>>>> ServerScriptsModule:update/sys_dictionary_x_58872_needit_needit_new_field_1.xml
         <sys_mod_count>0</sys_mod_count>
         <sys_name>New Choice</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+<<<<<<< HEAD:update/sys_dictionary_x_58872_needit_needit_u_choice_4.xml
         <sys_update_name>sys_dictionary_x_58872_needit_needit_u_choice_4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-06-08 00:34:51</sys_updated_on>
+=======
+        <sys_update_name>sys_dictionary_x_58872_needit_needit_new_field_1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-07-17 01:47:48</sys_updated_on>
+>>>>>>> ServerScriptsModule:update/sys_dictionary_x_58872_needit_needit_new_field_1.xml
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
